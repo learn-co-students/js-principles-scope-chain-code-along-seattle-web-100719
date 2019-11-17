@@ -25,5 +25,7 @@ function changeLeastFavoriteCustomer()
 
 function attemptTwoFavoriteCustomers()
 {
-   throw SyntaxError;
+   let favoriteCustomer;
+   let favoriteCustomer;
+
 }
